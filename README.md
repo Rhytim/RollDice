@@ -1,5 +1,5 @@
 # RollDice
-Whoever's reaches 100 points, wins!
+Game built using Javascript.
 
 ![image](https://user-images.githubusercontent.com/22847110/113542853-72bd7380-95e5-11eb-8219-0e11f531aec1.png)
 
