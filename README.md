@@ -1,7 +1,7 @@
 # RollDice
 Game built using Javascript.
 
-![image](https://user-images.githubusercontent.com/22847110/113542853-72bd7380-95e5-11eb-8219-0e11f531aec1.png)
+![image](https://user-images.githubusercontent.com/22847110/113544838-53c0e080-95e9-11eb-8f35-0cd06bd772b2.png)
 
 The player 1 is always the first to be able to roll.
 
